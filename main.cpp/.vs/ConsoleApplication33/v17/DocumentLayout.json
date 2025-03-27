@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\New\\source\\repos\\ConsoleApplication33\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EF9CA3-44AD-491C-A21E-27EDB56AAD87}|ConsoleApplication33\\ConsoleApplication33.vcxproj|C:\\Users\\New\\source\\repos\\ConsoleApplication33\\ConsoleApplication33\\ConsoleApplication33.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26EF9CA3-44AD-491C-A21E-27EDB56AAD87}|ConsoleApplication33\\ConsoleApplication33.vcxproj|solutionrelative:ConsoleApplication33\\ConsoleApplication33.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication33.cpp",
+              "DocumentMoniker": "C:\\Users\\New\\source\\repos\\ConsoleApplication33\\ConsoleApplication33\\ConsoleApplication33.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication33\\ConsoleApplication33.cpp",
+              "ToolTip": "C:\\Users\\New\\source\\repos\\ConsoleApplication33\\ConsoleApplication33\\ConsoleApplication33.cpp",
+              "RelativeToolTip": "ConsoleApplication33\\ConsoleApplication33.cpp",
+              "ViewState": "AQIAAHEBAAAAAAAAAAAAAKQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T19:23:59.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

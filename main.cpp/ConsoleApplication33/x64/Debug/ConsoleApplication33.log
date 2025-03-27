@@ -1,0 +1,3 @@
+﻿  ConsoleApplication33.cpp
+C:\Users\New\source\repos\ConsoleApplication33\ConsoleApplication33\ConsoleApplication33.cpp(168,60): warning C4566: character represented by universal-character-name '\u00B2' cannot be represented in the current code page (1251)
+  ConsoleApplication33.vcxproj -> C:\Users\New\source\repos\ConsoleApplication33\x64\Debug\ConsoleApplication33.exe
